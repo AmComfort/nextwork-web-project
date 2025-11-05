@@ -21,6 +21,8 @@
 <p>
   Ultimately, my vision is to become a senior-level cloud solutions architect who not only builds efficient and resilient architectures but also mentors junior engineers, promotes automation, and contributes to a culture of continuous improvement and innovation.
 </p>
+<p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
+
 
 </body>
 
